@@ -1,1 +1,34 @@
 /*  your css code here. If applicable */
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	background-color:#f8f8f8;
+}
+nav{
+	background-color:#f8f8f8;
+	text-align:center;
+	height:10vh; 
+	margin-bottom:20px;
+}
+.book_image{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	padding:20px;
+}
+.book-library{
+	background-color:#ffffff;
+}
+p{
+	color:#777777;
+}
+button{
+	color:#2ecc71;
+}
+section{
+	background-color:#f8f8f8;
+	
+}
