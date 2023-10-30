@@ -26,7 +26,8 @@ p{
 	color:#777777;
 }
 button{
-	color:#2ecc71;
+	background-color:rgb(46, 204, 113);
+	color:rgb(255, 255, 255);
 }
 section{
 	background-color:#f8f8f8;
