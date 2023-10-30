@@ -13,7 +13,7 @@ nav{
 	height:10vh; 
 	margin-bottom:20px;
 }
-.book_image{
+.book{
 	display:flex;
 	justify-content:center;
 	align-items:center;
